@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ravivarma-S
-- 👀 I’m interested in Coding,maths,statistics,Bussiness modelling,Logic Building
 
 
 <!---
